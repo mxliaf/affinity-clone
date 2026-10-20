@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="240" viewBox="0 0 520 240">
+  <defs>
+    <radialGradient id="blend" gradientUnits="userSpaceOnUse" cx="156" cy="96" r="392">
+      <stop offset="0" stop-color="#ffffff" />
+      <stop offset="0.3" stop-color="#a7f175" />
+      <stop offset="0.7" stop-color="#6d4aff" />
+      <stop offset="1" stop-color="#6d4aff" />
+    </radialGradient>
+  </defs>
+  <rect width="520" height="240" fill="url(#blend)" />
+</svg>

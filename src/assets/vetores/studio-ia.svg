@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="420" viewBox="0 0 980 420">
+  <defs>
+    <clipPath id="window"><rect width="980" height="420" rx="28" /></clipPath>
+
+  </defs>
+  <g clip-path="url(#window)">
+    <rect width="980" height="420" fill="#121212" />
+    <rect width="64" height="420" fill="#1b1b1b" />
+    <rect x="18" y="18" width="28" height="28" rx="8" fill="#2c2c2c" />
+    <rect x="18" y="58" width="28" height="28" rx="8" fill="#2c2c2c" />
+    <rect x="18" y="98" width="28" height="28" rx="8" fill="#2c2c2c" />
+    <rect x="18" y="138" width="28" height="28" rx="8" fill="#2c2c2c" />
+    <rect x="18" y="178" width="28" height="28" rx="8" fill="#2c2c2c" />
+    <rect x="64" width="736" height="420" fill="#20182b" />
+    <rect x="86" y="81" width="692" height="52" rx="14" fill="#ffffff" />
+    <text x="104" y="113" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#111111">Descreva o que você quer criar</text>
+    <rect x="86" y="149" width="341" height="90" rx="12" fill="#6d4aff" />
+    <rect x="437" y="149" width="341" height="90" rx="12" fill="#ff7a45" />
+    <rect x="86" y="249" width="341" height="90" rx="12" fill="#a7f175" />
+    <rect x="437" y="249" width="341" height="90" rx="12" fill="#7fd0ff" />
+    <rect x="800" width="180" height="420" fill="#1b1b1b" />
+    <path d="M890 100 L890.0 45.0 A55 55 0 0 1 917.5 52.4 Z" fill="#ff4d4d" stroke="#ff4d4d" stroke-width="0.6" />
+    <path d="M890 100 L917.5 52.4 A55 55 0 0 1 937.6 72.5 Z" fill="#ffa64d" stroke="#ffa64d" stroke-width="0.6" />
+    <path d="M890 100 L937.6 72.5 A55 55 0 0 1 945.0 100.0 Z" fill="#ffff4d" stroke="#ffff4d" stroke-width="0.6" />
+    <path d="M890 100 L945.0 100.0 A55 55 0 0 1 937.6 127.5 Z" fill="#a6ff4d" stroke="#a6ff4d" stroke-width="0.6" />
+    <path d="M890 100 L937.6 127.5 A55 55 0 0 1 917.5 147.6 Z" fill="#4dff4d" stroke="#4dff4d" stroke-width="0.6" />
+    <path d="M890 100 L917.5 147.6 A55 55 0 0 1 890.0 155.0 Z" fill="#4dffa6" stroke="#4dffa6" stroke-width="0.6" />
+    <path d="M890 100 L890.0 155.0 A55 55 0 0 1 862.5 147.6 Z" fill="#4dffff" stroke="#4dffff" stroke-width="0.6" />
+    <path d="M890 100 L862.5 147.6 A55 55 0 0 1 842.4 127.5 Z" fill="#4da6ff" stroke="#4da6ff" stroke-width="0.6" />
+    <path d="M890 100 L842.4 127.5 A55 55 0 0 1 835.0 100.0 Z" fill="#4d4dff" stroke="#4d4dff" stroke-width="0.6" />
+    <path d="M890 100 L835.0 100.0 A55 55 0 0 1 842.4 72.5 Z" fill="#a64dff" stroke="#a64dff" stroke-width="0.6" />
+    <path d="M890 100 L842.4 72.5 A55 55 0 0 1 862.5 52.4 Z" fill="#ff4dff" stroke="#ff4dff" stroke-width="0.6" />
+    <path d="M890 100 L862.5 52.4 A55 55 0 0 1 890.0 45.0 Z" fill="#ff4da6" stroke="#ff4da6" stroke-width="0.6" />
+    <rect x="818" y="190" width="28" height="28" rx="8" fill="#2c2c2c" />
+    <rect x="898" y="190" width="28" height="28" rx="8" fill="#2c2c2c" />
+    <rect x="818" y="226" width="28" height="28" rx="8" fill="#2c2c2c" />
+    <rect x="898" y="226" width="28" height="28" rx="8" fill="#2c2c2c" />
+  </g>
+  <rect x="0.5" y="0.5" width="979" height="419" rx="27.5" fill="none" stroke="#ffffff" stroke-opacity="0.08" />
+</svg>

@@ -1,0 +1,96 @@
+[data-bs-theme="dark"] {
+    --bs-body-bg: #16171d;
+    --bs-body-color: #9ca3af;
+    --bs-heading-color: #f3f4f6;
+    --bs-border-color: #2e303a;
+}
+
+:root {
+    font-family: system-ui, "Segoe UI", Roboto, sans-serif;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.hero {
+    min-height: 80vh;
+}
+
+.btn.btn-affinity {
+    --bs-btn-color: #111;
+    --bs-btn-bg: #a7f175;
+    --bs-btn-border-color: #a7f175;
+
+    --bs-btn-hover-color: #111;
+    --bs-btn-hover-bg: #8fdb5a;
+    --bs-btn-hover-border-color: #8fdb5a;
+
+    --bs-btn-active-color: #111;
+    --bs-btn-active-bg: #7cc948;
+    --bs-btn-active-border-color: #7cc948;
+}
+
+.marquee {
+  background-color: #A7F175;
+  color: #111;
+  overflow: hidden;
+  padding: 1.0rem 0;
+}
+
+.marquee-track {
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+  width: max-content;
+  animation: marquee-scroll 30s linear infinite;
+}
+
+.marquee:hover .marquee-track {
+  animation-play-state: paused;
+}
+
+.marquee-logo {
+  font-size: 2rem;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.logo-serif { font-family: Georgia, 'Times New Roman', serif; font-weight: 700; }
+.logo-bold  { font-family: system-ui, sans-serif; font-weight: 800; letter-spacing: -0.05em; }
+.logo-sans  { font-family: system-ui, sans-serif; font-weight: 400; }
+.logo-mono  { font-family: ui-monospace, Consolas, monospace; font-weight: 700; letter-spacing: 0.1em; }
+
+@keyframes marquee-scroll {
+  to {
+    transform: translateX(calc(-50% - 2rem));
+  }
+}
+
+.nav.nav-pills {
+  background-color: #1c1819;
+  border-radius: 1.5rem;
+  padding: 0.5rem;
+  width: fit-content;
+  flex-wrap: nowrap;
+  gap: 0.25rem;
+}
+
+.nav.nav-pills .nav-link {
+  color: #ccc;
+  border-radius: 1rem;
+  padding: 0.6rem 1.4rem;
+  white-space: nowrap;
+}
+
+.nav.nav-pills .nav-link:hover {
+  color: #fff;
+}
+
+.nav.nav-pills .nav-link.active {
+  background-color: #A7F175;
+  color: #111;
+}
+
+
+
